@@ -1,8 +1,10 @@
 --- Techstack ---
 
-Unreal Engine 4/5
-Python for Blender addons
-C++
+Unreal Engine 4/5,
+Python for Blender addons,
+Lua for Mission Scripting
+
+
 
 --- World ---
 
@@ -16,6 +18,7 @@ OSM - Turn into Models
 
 Car Models
 Car Physics
+
 
 
 --- Missions ---
