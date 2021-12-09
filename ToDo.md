@@ -15,13 +15,26 @@ OSM - Turn into Models
 
 
 
---- Driving ---
+--- Roads ---
+
+Different Road Types (derived from OSM street data)
+Intersections & Transitions
+Driveways
+
+
+
+--- Cars ---
 
 Car Models
-Car Physics
+Tuning
+Driving Physics
+FFB Wheel Support
 
 
 
 --- Missions ---
 
-Modding
+Lua-Modding
+Racing (own made or generated tracks)
+Delivery Missions
+Discoveries
