@@ -2,7 +2,8 @@
 
 Unreal Engine 4/5,
 Python for Blender addons,
-Lua for Mission Scripting
+Lua for Mission Scripting,
+Houdini for Generating assets
 
 
 
