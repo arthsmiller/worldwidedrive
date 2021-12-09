@@ -1,3 +1,9 @@
+--- Techstack ---
+
+Unreal Engine 4/5
+Python for Blender addons
+C++
+
 --- World ---
 
 Obtaining Data in Chunks (Blender Addons as Template)
@@ -12,6 +18,6 @@ Car Models
 Car Physics
 
 
---- Missios ---
+--- Missions ---
 
 Modding
