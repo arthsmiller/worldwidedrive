@@ -1,6 +1,7 @@
 --- Techstack ---
 
 Unreal Engine 4/5,
+mapbox for street and terrain data
 Python for Blender addons,
 Lua for Mission Scripting,
 Houdini for Generating assets
